@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Harshal Parhad 👋
 
-<!--
-**harshhh2501/harshhh2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer from India
 
-Here are some ideas to get you started:
+I build scalable web applications, booking systems, ERP platforms, and SaaS products using PHP, MySQL, JavaScript, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+PHP • JavaScript • MySQL • HTML • CSS • React.js • REST APIs • Git • GitHub • PHPMailer • Google Meet API
+
+## 🔥 Featured Projects
+
+### Afacere Solutions Booking Platform
+Production-level appointment booking platform with admin dashboard, SMTP email system, and Google Meet API integration.
+
+### Publuu-Style Flipbook SaaS Platform
+Interactive flipbook SaaS platform with PDF upload, sharing system, analytics, and page-flip animation.
+
+### ERP Management System
+ERP modules with CRUD operations, workflow automation, and admin dashboard management.
+
+## 📫 Connect With Me
+
+Portfolio: https://harshal-parhad.netlify.app  
+LinkedIn: https://linkedin.com/in/harshalparhad  
+Email: harshalparhad@gmail.com
