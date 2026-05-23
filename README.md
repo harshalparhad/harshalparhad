@@ -57,8 +57,8 @@ ERP modules with CRUD operations, workflow automation, admin management, and res
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshhh2501&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhh2501&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshalparhad&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalparhad&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ ERP modules with CRUD operations, workflow automation, admin management, and res
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
 </a>
 
-<a href="https://github.com/harshhh2501" target="blank">
+<a href="https://github.com/harshalparhad" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
 </a>
 </p>
